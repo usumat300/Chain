@@ -3991,7 +3991,7 @@ function library:init()
                         noindicator = false;
                         state = false;
                         nomouse = false;
-                        enabled = true;
+                        enabled = false;
                         binding = false;
                         risky = false;
                         objects = {};
