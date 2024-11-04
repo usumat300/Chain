@@ -228,8 +228,7 @@ ScreenGui.IgnoreGuiInset = true
 ScreenGui.Parent = SafeGetService(game:GetService('CoreGui'))
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "Im very sorry for the Scraps ESP not working!";
-	Text = "its fixed now! dm mando_mercury for issues";
+		
 	Duration = 5;
 });
 return 0
